@@ -1,0 +1,16 @@
+{
+  "id": "com.tysonkelley.plugins.metaTags",
+  "name": "Meta Tags",
+  "version": "1.1",
+  "provider": "Tyson Kelley",
+  "class":"metaTags.plugin",
+  "description": "Adds meta tags to posts.<br/>\n\t<br/>\n\tWritten By Tyson Kelley",
+  "requires": [
+    {
+      "engine": {
+        "version": 1.8,
+        "match": "greaterOrEqual"
+      }
+    }
+  ]
+}
